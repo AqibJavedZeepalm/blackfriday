@@ -1,0 +1,23 @@
+{
+  "name": "Notchet",
+  "url": "https://aqibjaved.dev/apps/notchet/?ref=bf-gh-indiegoodies",
+  "description": "Clipboard manager in the MacBook notch, also on iPhone and iPad",
+  "category": "productivity",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad"
+  ],
+  "deal": "50% off lifetime with code NOTCHET50",
+  "code": "NOTCHET50",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 9.99,
+    "sale": 4.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-02",
+  "icon": "https://aqibjaved.dev/assets/nt-icon-glow.webp"
+}
